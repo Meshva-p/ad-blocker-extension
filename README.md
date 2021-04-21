@@ -1,1 +1,1 @@
-# ad-blocker
+# ad-blocker-extension
